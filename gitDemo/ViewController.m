@@ -30,4 +30,8 @@
     NSLog(@"this is first method");
 }
 
+-(void)seeee{
+    NSLog(@"this is the second");
+}
+
 @end
